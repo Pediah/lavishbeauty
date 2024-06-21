@@ -249,6 +249,7 @@ section{
 
 .services{
     background-color: var(--main-color);
+    height: 90vh;
  }
 
 .services .box-container{
@@ -264,8 +265,8 @@ section{
  }
 
  .services .box-container .box img{
-    height: 100%;
-    width: 100%;
+    height: 65vh;
+    width: 65vh;
     object-fit: cover;
  }
  
