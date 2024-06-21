@@ -306,29 +306,43 @@
 
 <section class="visit" id="visit">
 
-    <h1 class="heading"> book a visit </h1>
+    <h1 class="heading">book a visit</h1>
 
-        <div class="row">
-    
-            <form action="">
-                <div class="inputBox">
-                    <input type="text" placeholder="Your name">
-                </div>
-                <div class="inputBox">
-                    <input type="email" placeholder="Your e-mail">
-                </div>
-                <div class="inputBox">
-                    <input type="text" placeholder="Subject">
-                </div>
-                <div class="inputBox">
-                    <input type="text" placeholder="Message">
-                </div>
-    
-    
-                <input type="submit" value="Send A Message" class="btn">
-            </form>
-            
-        </div>
+    <div class="row">
+
+        <form action="">
+            <div class="inputBox">
+                <input type="text" placeholder="Your name" required>
+            </div>
+            <div class="inputBox">
+                <input type="email" placeholder="Your e-mail" required>
+            </div>
+            <div class="inputBox">
+                <input type="text" placeholder="Subject" required>
+            </div>
+            <div class="inputBox">
+                <select id="department" required onchange="updateDaySlots()">
+                    <option value="" disabled selected>Select Department</option>
+                    <option value="department1">Department 1</option>
+                    <option value="department2">Department 2</option>
+                    <option value="department3">Department 3</option>
+                </select>
+            </div>
+            <div class="inputBox" id="day-slot">
+                <select id="day" disabled required onchange="updateTimeSlots()">
+                    <option value="" disabled selected>Select Day</option>
+                </select>
+            </div>
+            <div class="inputBox" id="time-slot">
+                <select id="time" disabled required>
+                    <option value="" disabled selected>Select Time Slot</option>
+                </select>
+            </div>
+
+            <input type="submit" value="Place Booking" class="btn">
+        </form>
+        
+    </div>
 
 </section>
 
