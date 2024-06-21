@@ -156,6 +156,12 @@ section{
     background-position: center;
 }
 
+@media (max-width: 700px) {
+  .home {
+    background:url(../images/pricing.jpg) no-repeat;
+  }
+}
+
 .home .content{
     max-width: 60rem;
 }
@@ -195,7 +201,7 @@ section{
 }
 
 .about .row .image1 img{
-    width: 80%;
+    width: 100%;
     border-top-left-radius: 20%;
     border-bottom-right-radius: 20%;
 }
@@ -773,6 +779,7 @@ section{
     transform: translateX(0);
     opacity: 1;
 }
+
 
 /*cont-butt*/
 
