@@ -94,7 +94,7 @@ section{
 
 /* header */
 
-.header{
+.header {
     padding-top: 2rem;
     padding-bottom: 2rem;
     display: flex;
@@ -102,10 +102,14 @@ section{
     justify-content: space-between;
     box-shadow: var(--box-shadow);
     position: sticky;
-    top:0; left:0; right: 0;
+    top: 0;
+    left: 0;
+    right: 0;
     background: var(--main-color);
     z-index: 1000;
+    transition: top 0.3s; /* Add transition for smooth effect */
 }
+
  
 .header .logo{
     font-size: 2.5rem;
@@ -264,13 +268,13 @@ section{
  }
  
  .services .box-container .box{
-    height: 100%;
+    height: 80vh;
     position: relative;
     overflow: hidden;
  }
 
  .services .box-container .box img{
-    height: 100%;
+    height: 80vh;
     width: 100%;
     object-fit: cover;
  }
@@ -286,7 +290,7 @@ section{
     position: absolute;
     top:0; left:0;
     z-index: 10;
-    height: 100%;
+    height: 80vh;
     width: 100%;
     background: var(--dark-bg);
  }
@@ -905,4 +909,42 @@ a.logo:hover img {
     line-height: 1.5;
     color: white;
     margin: 10px 0;
+}
+
+
+/* dropdown */
+
+/* Style the navbar and dropdown */
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    z-index: 1;
+    border-radius: 8px; /* Add border radius */
+}
+
+.dropdown-content li {
+    list-style: none;
+}
+
+.dropdown-content li a {
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content li a:hover {
+    background:transparent;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
 }

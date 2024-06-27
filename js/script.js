@@ -94,3 +94,24 @@ function updateTimeSlots() {
         timeSlotSelect.appendChild(option);
     });
 }
+
+// nav bar function
+
+document.addEventListener("DOMContentLoaded", function() {
+    let lastScrollTop = 0;
+    const navbar = document.querySelector('.header');
+
+    window.addEventListener('scroll', () => {
+        let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+
+        if (scrollTop > lastScrollTop) {
+            // Downscroll
+            navbar.style.top = `-${navbar.offsetHeight}px`; // Hide the navbar completely
+        } else {
+            // Upscroll
+            navbar.style.top = '0';
+        }
+
+        lastScrollTop = scrollTop <= 0 ? 0 : scrollTop; // For Mobile or negative scrolling
+    });
+});
