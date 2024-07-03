@@ -43,7 +43,7 @@
     <div class="carousel">
         <div class="list">
             <div class="item">
-                <img src="images/nailshead.png">
+                <img src="images/braids1.png">
                 <div class="introduce">
                     <div class="title">DESIGN SLIDER</div>
                     <div class="topic">Aerphone</div>
@@ -89,7 +89,7 @@
             </div>
 
             <div class="item">
-                <img src="images/nailshead.png">
+                <img src="images/braids2.png">
                 <div class="introduce">
                     <div class="title">DESIGN SLIDER</div>
                     <div class="topic">Aerphone</div>
@@ -135,7 +135,7 @@
             </div>
 
             <div class="item">
-                <img src="images/nailshead.png">
+                <img src="images/braids3.png">
                 <div class="introduce">
                     <div class="title">DESIGN SLIDER</div>
                     <div class="topic">Aerphone</div>
@@ -181,7 +181,7 @@
             </div>
 
             <div class="item">
-                <img src="images/nailshead.png">
+                <img src="images/braids4.png">
                 <div class="introduce">
                     <div class="title">DESIGN SLIDER</div>
                     <div class="topic">Aerphone</div>
@@ -227,7 +227,7 @@
             </div>
 
             <div class="item">
-                <img src="images/nailshead.png">
+                <img src="images/braids5.png">
                 <div class="introduce">
                     <div class="title">DESIGN SLIDER</div>
                     <div class="topic">Aerphone</div>
@@ -273,7 +273,285 @@
             </div>
 
             <div class="item">
-                <img src="images/nailshead.png">
+                <img src="images/braids6.png">
+                <div class="introduce">
+                    <div class="title">DESIGN SLIDER</div>
+                    <div class="topic">Aerphone</div>
+                    <div class="des">
+                        <!-- 20 lorem -->
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, laborum cumque dignissimos quidem atque et eligendi aperiam voluptates beatae maxime.
+                    </div>
+                    <button class="seeMore">SEE MORE &#8599</button>
+                </div>
+                <div class="detail">
+                    <div class="title">Aerphone GHTK</div>
+                    <div class="des">
+                        <!-- lorem 50 -->
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, reiciendis suscipit nobis nulla animi, modi explicabo quod corrupti impedit illo, accusantium in eaque nam quia adipisci aut distinctio porro eligendi. Reprehenderit nostrum consequuntur ea! Accusamus architecto dolores modi ducimus facilis quas voluptatibus! Tempora ratione accusantium magnam nulla tenetur autem beatae.
+                    </div>
+                    <div class="specifications">
+                        <div>
+                            <p>Used Time</p>
+                            <p>6 hours</p>
+                        </div>
+                        <div>
+                            <p>Charging port</p>
+                            <p>Type-C</p>
+                        </div>
+                        <div>
+                            <p>Compatible</p>
+                            <p>Android</p>
+                        </div>
+                        <div>
+                            <p>Bluetooth</p>
+                            <p>5.3</p>
+                        </div>
+                        <div>
+                            <p>Controlled</p>
+                            <p>Touch</p>
+                        </div>
+                    </div>
+                    <div class="checkout">
+                        <button>ADD TO CART</button>
+                        <button>CHECKOUT</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- wigs -->
+
+            <div class="item">
+                <img src="images/wig1.png">
+                <div class="introduce">
+                    <div class="title">DESIGN SLIDER</div>
+                    <div class="topic">Aerphone</div>
+                    <div class="des">
+                        <!-- 20 lorem -->
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, laborum cumque dignissimos quidem atque et eligendi aperiam voluptates beatae maxime.
+                    </div>
+                    <button class="seeMore">SEE MORE &#8599</button>
+                </div>
+                <div class="detail">
+                    <div class="title">Aerphone GHTK</div>
+                    <div class="des">
+                        <!-- lorem 50 -->
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, reiciendis suscipit nobis nulla animi, modi explicabo quod corrupti impedit illo, accusantium in eaque nam quia adipisci aut distinctio porro eligendi. Reprehenderit nostrum consequuntur ea! Accusamus architecto dolores modi ducimus facilis quas voluptatibus! Tempora ratione accusantium magnam nulla tenetur autem beatae.
+                    </div>
+                    <div class="specifications">
+                        <div>
+                            <p>Used Time</p>
+                            <p>6 hours</p>
+                        </div>
+                        <div>
+                            <p>Charging port</p>
+                            <p>Type-C</p>
+                        </div>
+                        <div>
+                            <p>Compatible</p>
+                            <p>Android</p>
+                        </div>
+                        <div>
+                            <p>Bluetooth</p>
+                            <p>5.3</p>
+                        </div>
+                        <div>
+                            <p>Controlled</p>
+                            <p>Touch</p>
+                        </div>
+                    </div>
+                    <div class="checkout">
+                        <button>ADD TO CART</button>
+                        <button>CHECKOUT</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <img src="images/wigs2.png">
+                <div class="introduce">
+                    <div class="title">DESIGN SLIDER</div>
+                    <div class="topic">Aerphone</div>
+                    <div class="des">
+                        <!-- 20 lorem -->
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, laborum cumque dignissimos quidem atque et eligendi aperiam voluptates beatae maxime.
+                    </div>
+                    <button class="seeMore">SEE MORE &#8599</button>
+                </div>
+                <div class="detail">
+                    <div class="title">Aerphone GHTK</div>
+                    <div class="des">
+                        <!-- lorem 50 -->
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, reiciendis suscipit nobis nulla animi, modi explicabo quod corrupti impedit illo, accusantium in eaque nam quia adipisci aut distinctio porro eligendi. Reprehenderit nostrum consequuntur ea! Accusamus architecto dolores modi ducimus facilis quas voluptatibus! Tempora ratione accusantium magnam nulla tenetur autem beatae.
+                    </div>
+                    <div class="specifications">
+                        <div>
+                            <p>Used Time</p>
+                            <p>6 hours</p>
+                        </div>
+                        <div>
+                            <p>Charging port</p>
+                            <p>Type-C</p>
+                        </div>
+                        <div>
+                            <p>Compatible</p>
+                            <p>Android</p>
+                        </div>
+                        <div>
+                            <p>Bluetooth</p>
+                            <p>5.3</p>
+                        </div>
+                        <div>
+                            <p>Controlled</p>
+                            <p>Touch</p>
+                        </div>
+                    </div>
+                    <div class="checkout">
+                        <button>ADD TO CART</button>
+                        <button>CHECKOUT</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <img src="images/wig3.png">
+                <div class="introduce">
+                    <div class="title">DESIGN SLIDER</div>
+                    <div class="topic">Aerphone</div>
+                    <div class="des">
+                        <!-- 20 lorem -->
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, laborum cumque dignissimos quidem atque et eligendi aperiam voluptates beatae maxime.
+                    </div>
+                    <button class="seeMore">SEE MORE &#8599</button>
+                </div>
+                <div class="detail">
+                    <div class="title">Aerphone GHTK</div>
+                    <div class="des">
+                        <!-- lorem 50 -->
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, reiciendis suscipit nobis nulla animi, modi explicabo quod corrupti impedit illo, accusantium in eaque nam quia adipisci aut distinctio porro eligendi. Reprehenderit nostrum consequuntur ea! Accusamus architecto dolores modi ducimus facilis quas voluptatibus! Tempora ratione accusantium magnam nulla tenetur autem beatae.
+                    </div>
+                    <div class="specifications">
+                        <div>
+                            <p>Used Time</p>
+                            <p>6 hours</p>
+                        </div>
+                        <div>
+                            <p>Charging port</p>
+                            <p>Type-C</p>
+                        </div>
+                        <div>
+                            <p>Compatible</p>
+                            <p>Android</p>
+                        </div>
+                        <div>
+                            <p>Bluetooth</p>
+                            <p>5.3</p>
+                        </div>
+                        <div>
+                            <p>Controlled</p>
+                            <p>Touch</p>
+                        </div>
+                    </div>
+                    <div class="checkout">
+                        <button>ADD TO CART</button>
+                        <button>CHECKOUT</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <img src="images/wig4.png">
+                <div class="introduce">
+                    <div class="title">DESIGN SLIDER</div>
+                    <div class="topic">Aerphone</div>
+                    <div class="des">
+                        <!-- 20 lorem -->
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, laborum cumque dignissimos quidem atque et eligendi aperiam voluptates beatae maxime.
+                    </div>
+                    <button class="seeMore">SEE MORE &#8599</button>
+                </div>
+                <div class="detail">
+                    <div class="title">Aerphone GHTK</div>
+                    <div class="des">
+                        <!-- lorem 50 -->
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, reiciendis suscipit nobis nulla animi, modi explicabo quod corrupti impedit illo, accusantium in eaque nam quia adipisci aut distinctio porro eligendi. Reprehenderit nostrum consequuntur ea! Accusamus architecto dolores modi ducimus facilis quas voluptatibus! Tempora ratione accusantium magnam nulla tenetur autem beatae.
+                    </div>
+                    <div class="specifications">
+                        <div>
+                            <p>Used Time</p>
+                            <p>6 hours</p>
+                        </div>
+                        <div>
+                            <p>Charging port</p>
+                            <p>Type-C</p>
+                        </div>
+                        <div>
+                            <p>Compatible</p>
+                            <p>Android</p>
+                        </div>
+                        <div>
+                            <p>Bluetooth</p>
+                            <p>5.3</p>
+                        </div>
+                        <div>
+                            <p>Controlled</p>
+                            <p>Touch</p>
+                        </div>
+                    </div>
+                    <div class="checkout">
+                        <button>ADD TO CART</button>
+                        <button>CHECKOUT</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <img src="images/wig5.png">
+                <div class="introduce">
+                    <div class="title">DESIGN SLIDER</div>
+                    <div class="topic">Aerphone</div>
+                    <div class="des">
+                        <!-- 20 lorem -->
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, laborum cumque dignissimos quidem atque et eligendi aperiam voluptates beatae maxime.
+                    </div>
+                    <button class="seeMore">SEE MORE &#8599</button>
+                </div>
+                <div class="detail">
+                    <div class="title">Aerphone GHTK</div>
+                    <div class="des">
+                        <!-- lorem 50 -->
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, reiciendis suscipit nobis nulla animi, modi explicabo quod corrupti impedit illo, accusantium in eaque nam quia adipisci aut distinctio porro eligendi. Reprehenderit nostrum consequuntur ea! Accusamus architecto dolores modi ducimus facilis quas voluptatibus! Tempora ratione accusantium magnam nulla tenetur autem beatae.
+                    </div>
+                    <div class="specifications">
+                        <div>
+                            <p>Used Time</p>
+                            <p>6 hours</p>
+                        </div>
+                        <div>
+                            <p>Charging port</p>
+                            <p>Type-C</p>
+                        </div>
+                        <div>
+                            <p>Compatible</p>
+                            <p>Android</p>
+                        </div>
+                        <div>
+                            <p>Bluetooth</p>
+                            <p>5.3</p>
+                        </div>
+                        <div>
+                            <p>Controlled</p>
+                            <p>Touch</p>
+                        </div>
+                    </div>
+                    <div class="checkout">
+                        <button>ADD TO CART</button>
+                        <button>CHECKOUT</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <img src="images/wig6.png">
                 <div class="introduce">
                     <div class="title">DESIGN SLIDER</div>
                     <div class="topic">Aerphone</div>
@@ -329,103 +607,6 @@
 
     <script src="app.js"></script>
 </section>
-
-<!-- home -->
-<hr style="border: none; border-top: 1px solid #8a6d46;">
-<!-- about us -->
-
-<section class="about" id="about">
-
-    <h1 class="heading">about us</h1>
-
-    <div class="row" >
-
-        <div class="image1">
-            <img src="images/reception.png" alt="">
-        </div>
-
-        <div class="content">
-            <h3 class="title">We are a group of stylists</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla mauris dolor, gravida a varius blandit, auctor eget purus. Phasellus scelerisque sapien sit amet mauris laoreet, eget scelerisque nunc cursus. Duis ultricies malesuada leo vel aliquet. Curabitur rutrum porta dui eget mollis. Nullam lacinia dictum auctor.</p>        
-            <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Orci varius natoque penatibus et magnis dis parturient montes.</p>
-            
-            <div class="icons-container">
-                <div class="icons">
-                   <img src="images/about-icon-1.png" alt="">
-                   <h3>Professional tools</h3>
-                </div>
-                <div class="icons">
-                   <img src="images/about-icon-2.png" alt="">
-                   <h3>quality products</h3>
-                </div>
-                <div class="icons">
-                   <img src="images/about-icon-3.png" alt="">
-                   <h3>hair washing</h3>
-                </div>
-                <div class="icons">
-                   <img src="images/about-icon-3.png" alt="">
-                   <h3>hair washing</h3>
-                </div>
-                <div class="icons">
-                   <img src="images/about-icon-3.png" alt="">
-                   <h3>hair washing</h3>
-                </div>
-                <div class="icons">
-                   <img src="images/about-icon-3.png" alt="">
-                   <h3>hair washing</h3>
-                </div>
-             </div>
-        </div>
-
-    </div>
-
-</section>
-
-<!-- about us end -->
-
-<!-- services -->
-
-<section class="services" id="services">
-
-    <h1 class="heading">Services</h1>
-
-    <div class="box-container">
-
-        <div class="box">
-            <img src="images/MAKE.jpg" alt="">
-            <div class="content">
-                <div class="cont-butt"><h3>Beauty Essentials</h3>
-                    <p>enhance your natural beauty with our makeup and eyelash services, perfect for a special occasion or everyday glamour.</p>
-                    <button class="see-more-btn">See More</button>
-                </div>
-            </div>
-        </div>
-
-        <div class="box">
-            <img src="images/nails2.jpg" alt="">
-            <div class="content">
-                <div class="cont-butt"><h3>Nail Care</h3>
-                    <p>Indulge in our professional nail services, from manicures to pedicures, to keep your fingers and toes looking their best</p>
-                    <button class="see-more-btn">See More</button>
-                </div>
-            </div>
-        </div>
-
-        <div class="box">
-            <img src="images/braid.jpg" alt="">
-            <div class="content">
-                <div class="cont-butt"><h3>Hair styling</h3>
-                    <p>Transform your tresses with our expert hair services, ranging from precision cuts to stylish braids and natural hair care.</p>
-                    <button class="see-more-btn">See More</button>
-                </div>
-            </div>
-        </div>
-
-
-    </div>
-
-</section>
-
 <!-- services end -->
 
 <!-- styles -->
