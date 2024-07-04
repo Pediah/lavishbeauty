@@ -202,13 +202,13 @@ section{
 
 .about .row .image1{
     flex:1 1 39rem;
-    object-fit: contain;
 }
 
 .about .row .image1 img{
     width: 100%;
     border-top-left-radius: 20%;
     border-bottom-right-radius: 20%;
+    height: 100%;
 }
 .about .row .content{
     flex:1 1 51rem;
